@@ -114,6 +114,3 @@ Este projeto visa o desenvolvimento de um banco de dados para um sistema de e-co
 
 ## Modelo E-Commerce
 ![Mod_ecommerce](https://github.com/user-attachments/assets/c4a873d7-931e-40c7-a262-6320a6b1b8d8)
-
-### **Considerações Finais**
-Este esquema conceitual foi desenvolvido com base na narrativa fornecida e procura abranger os principais aspectos operacionais de um e-commerce, para garantir a integridade e a eficiência do gerenciamento dos pedidos.
